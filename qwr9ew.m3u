@@ -1,49 +1,69 @@
-#EXTINF:-1, 1
-http://playlist.urfan.web.id/qwr9ew/s/s01/01.m3u8
-#EXTINF:-1, 2
-http://playlist.urfan.web.id/qwr9ew/s/s02/01.m3u8
-#EXTINF:-1, 3
+#EXTM3U
+#EXTINF:-1, SCTV
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1, Indosiar
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1, 5
+#EXTINF:-1, TransTV
 http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
-#EXTINF:-1, 6
-http://playlist.urfan.web.id/qwr9ew/s/s06/01.m3u8
-#EXTINF:-1, 7
+
+#EXTINF:-1, ANTV
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 
 #EXTINF:-1, NET TV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1, 9
-http://playlist.urfan.web.id/qwr9ew/s/s09/01.m3u8
-#EXTINF:-1, 10
+#EXTINF:-1, Elshinta TV
 http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1, 11
+
+#EXTINF:-1, TVRI
 http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1, 12
-http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1, 13
+
+#EXTINF:-1, DAAI TV
 http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
-#EXTINF:-1, 14
+
+#EXTINF:-1, Rodja TV
 http://playlist.urfan.web.id/qwr9ew/s/s14/01.m3u8
-#EXTINF:-1, 15
-http://playlist.urfan.web.id/qwr9ew/s/s15/01.m3u8
-#EXTINF:-1, 16
+
+#EXTINF:-1, Aljazeera (AR)
 http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
-#EXTINF:-1, 17
+
+#EXTINF:-1, Aljazeera (EN)
 http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
-#EXTINF:-1, 18
+
+#EXTINF:-1, JakTV
 http://playlist.urfan.web.id/qwr9ew/s/s18/01.m3u8
-#EXTINF:-1, 19
+
+#EXTINF:-1, CCTV 4
 http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
-#EXTINF:-1, 20
+
+#EXTINF:-1, CGTN
 http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1, 21
+
+#EXTINF:-1, Phoenix TV
 http://playlist.urfan.web.id/qwr9ew/s/s21/01.m3u8
+
+#EXTINF:-1, 22
+http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1, 23
+http://playlist.urfan.web.id/qwr9ew/s/s23/01.m3u8
+#EXTINF:-1, 24
+http://playlist.urfan.web.id/qwr9ew/s/s24/01.m3u8
+#EXTINF:-1, 25
+http://playlist.urfan.web.id/qwr9ew/s/s25/01.m3u8
+#EXTINF:-1, 26
+http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1, 27
+http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1, 28
+http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1, 29
+http://playlist.urfan.web.id/qwr9ew/s/s29/01.m3u8
+#EXTINF:-1, 30
+http://playlist.urfan.web.id/qwr9ew/s/s30/01.m3u8
+#EXTINF:-1, 31
+http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
 
 
 #EXTINF:-1, ZEEBIOSKOP
