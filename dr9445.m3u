@@ -1,47 +1,24 @@
-#EXTINF:-1, 1
-http://playlist.urfan.web.id/dr9445/h/h01/01.m3u8
-#EXTINF:-1, 2
+#EXTM3U
+#EXTINF:-1, Aniplus
 http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
-#EXTINF:-1, 3
-http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
 
 #EXTINF:-1, CINEMAWOLRD
 http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
 
-#EXTINF:-1, 5
+#EXTINF:-1, Fight Sport
 http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
-#EXTINF:-1, 6
-http://playlist.urfan.web.id/dr9445/h/h06/01.m3u8
 
 #EXTINF:-1, KIX
 http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
 
-#EXTINF:-1, 8
-http://playlist.urfan.web.id/dr9445/h/h08/01.m3u8
-#EXTINF:-1, 9
-http://playlist.urfan.web.id/dr9445/h/h09/01.m3u8
-#EXTINF:-1, 10
-http://playlist.urfan.web.id/dr9445/h/h10/01.m3u8
-#EXTINF:-1, 11
-http://playlist.urfan.web.id/dr9445/h/h11/01.m3u8
-#EXTINF:-1, 12
-http://playlist.urfan.web.id/dr9445/h/h12/01.m3u8
-#EXTINF:-1, 13
-http://playlist.urfan.web.id/dr9445/h/h13/01.m3u8
-#EXTINF:-1, 14
+#EXTINF:-1, Calestial Movie
 http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
 
 #EXTINF:-1,Blue Ant Extreme
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1, 16
+#EXTINF:-1, Roct Entertainment
 http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
-#EXTINF:-1, 17
-http://playlist.urfan.web.id/dr9445/h/h17/01.m3u8
-#EXTINF:-1, 18
-http://playlist.urfan.web.id/dr9445/h/h18/01.m3u8
-#EXTINF:-1, 19
-http://playlist.urfan.web.id/dr9445/h/h19/01.m3u8
 
 #EXTINF:-1, TVN
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
@@ -111,5 +88,5 @@ http://playlist.urfan.web.id/dr9445/h/h49/01.m3u8
 http://playlist.urfan.web.id/dr9445/h/h50/01.m3u8
 
 
-#EXTINF:-1,
+#EXTINF:-1, AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
