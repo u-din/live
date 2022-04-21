@@ -1,1 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Animal Planet HD 009
+http://134.0.113.120:8000/play/animalplanethd/index.m3u8
+#EXTINF:-1,Discovery Science 012
+http://134.0.113.120:8000/play/discoveryscience/index.m3u8
+#EXTINF:-1,EUROSPORT 1 HD 006
 http://134.0.113.120:8000/play/eurosport1hd/index.m3u8
+#EXTINF:-1,EUROSPORT 2 HD 005
+http://134.0.113.120:8000/play/eurosport2hd/index.m3u8
+#EXTINF:-1,Euronews 007
+http://134.0.113.120:8000/play/euronews/index.m3u8
+#EXTINF:-1,History Россия HD 010
+http://134.0.113.120:8000/play/historyhd/index.m3u8
+#EXTINF:-1,Setanta Sports 1 HD 017
+http://134.0.113.120:8000/play/setantasports1hd/index.m3u8
+#EXTINF:-1,Setanta Sports 2 HD
+http://134.0.113.120:8000/play/setantasports2hd/index.m3u8
+#EXTINF:-1,Ultra HD Cinema 014
+http://134.0.113.120:8000/play/ultrahdcinema/index.m3u8
+#EXTINF:-1,Дикая Охота HD 011
+http://134.0.113.120:8000/play/dikayaohotahd/index.m3u8
+#EXTINF:-1,Дикая Рыбалка HD 013
+http://134.0.113.120:8000/play/dikayaribalkahd/index.m3u8
+#EXTINF:-1,Дождь 008
+http://134.0.113.120:8000/play/dojhd/index.m3u8
+#EXTINF:-1,Кино UHD 4K 015
+http://134.0.113.120:8000/play/kinouhd/index.m3u8
