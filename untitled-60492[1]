@@ -1,0 +1,263 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV " tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="Local",TRANS TV 
+http://103.30.87.238:443/Terial002/7882/26
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="Local",TRANS 7
+http://103.30.87.238:443/Terial002/7882/27
+#EXTINF:-1 tvg-id="CNBCAsiaPacific.us" tvg-name="CNBC Indonesia" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c68565fa79ce01665868040a343f/40bc5eb7cdeb4f37814608ffbe60b671.jpg" group-title="Local",CNBC Indonesia
+http://103.30.87.238:443/Terial002/7882/92
+#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-name="CNN Indonesia" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c68574537fcd0174be4997e958db/e02f3053b96f4349ad8402d7b181d273.jpg" group-title="Local",CNN Indonesia
+http://103.30.87.238:443/Terial002/7882/581
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c68574537fcd0174be51092e58f1/9eec8914d4f74ee5a5f4d988c2965902.png" group-title="Local",RCTI
+http://103.30.87.238:443/Terial002/7882/516
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNC TV" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c68574537fcd0174be5ef52a5904/441b76dc2d004adda2945df43736dd02.png" group-title="Local",MNC TV
+http://103.30.87.238:443/Terial002/7882/858
+#EXTINF:-1 tvg-id="iNewsTV.MACAN" tvg-name="Inews" tvg-logo="https://i.ibb.co/KWttnf1/inews-home-tv.png" group-title="Local",Inews
+http://103.30.87.238:443/Terial002/7882/1419
+#EXTINF:-1 tvg-id="RTV.MACAN" tvg-name="RTV" tvg-logo="https://i.ibb.co/Qmh4NMJ/rtv-home-tv.png" group-title="Local",RTV
+http://103.30.87.238:443/Terial002/7882/1193
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="Local",GTV
+http://103.30.87.238:443/Terial002/7882/913
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="Local",SCTV
+http://103.30.87.238:443/Terial002/7882/890
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="Indosiar" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="Local",Indosiar
+http://103.30.87.238:443/Terial002/7882/907
+#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://i.ibb.co/tXZT0Lz/Ochannel.png" group-title="Local",O Channel
+http://103.30.87.238:443/Terial002/7882/1359
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" group-title="Local",ANTV
+http://103.30.87.238:443/Terial002/7882/891
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET TV" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c685758bcfff01776c4ea3520a72/dfbeb8234b8d4794be107648d83c57ac.png" group-title="Local",NET TV
+http://103.30.87.238:443/Terial002/7882/889
+#EXTINF:-1 tvg-id="KompasTv.MACAN" tvg-name="KompasTV" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c68574537fcd0174be58644c5901/87b349f225fa4b0b839447d943a63b5f.jpg" group-title="Local",KompasTV
+http://103.30.87.238:443/Terial002/7882/809
+#EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-name="Berita Satu" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c68574537fcd0174be56c7d858fd/ec4f8193ac4e4ac2be721616747508b1.jpg" group-title="Local",Berita Satu
+http://103.30.87.238:443/Terial002/7882/570
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="METROTV" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c6856c3db2cc016cd6e548c62390/ccc63e74543d4562814b3af17aceb70c.png" group-title="Local",METROTV
+http://103.30.87.238:443/Terial002/7882/32
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI" tvg-logo="https://i.ibb.co/d5tmxwX/tvri-home-tv.png" group-title="Local",TVRI
+http://103.30.87.238:443/Terial002/7882/102
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/Ptrwg6d/tvone-home-tv.png" group-title="Local",TV ONE
+http://103.30.87.238:443/Terial002/7882/1529
+#EXTINF:-1 tvg-id="AlJazeera.MACAN" tvg-name="Al Jazeera" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png" group-title="Internasional News",Al Jazeera
+http://103.30.87.238:443/Terial002/7882/95
+#EXTINF:-1 tvg-id="BBCWorldNews.MACAN" tvg-name="BBC News" tvg-logo="https://i.ibb.co/VmrxVVv/bbc-news-home-tv.png" group-title="Internasional News",BBC News
+http://103.30.87.238:443/Terial002/7882/97
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg" tvg-logo="https://i.ibb.co/nBtSKNF/bloomberg-home-tv.png" group-title="Internasional News",Bloomberg
+http://103.30.87.238:443/Terial002/7882/403
+#EXTINF:-1 tvg-id="NHKWorldPremium.id" tvg-name="NHK World" tvg-logo="https://i.ibb.co/NCgFhsD/nhk-world-jp-home-tv.png" group-title="Internasional News",NHK World
+http://103.30.87.238:443/Terial002/7882/583
+#EXTINF:-1 tvg-id="ABCAustralia.id" tvg-name="ABC News" tvg-logo="https://i.ibb.co/rGQNKnx/abc-aust-home-tv.png" group-title="Internasional News",ABC News
+http://103.30.87.238:443/Terial002/7882/592
+#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang" tvg-logo="https://i.ibb.co/ykm1ppp/arirang-home-tv.png" group-title="Internasional News",Arirang
+http://103.30.87.238:443/Terial002/7882/738
+#EXTINF:-1 tvg-id="5StarMaxEast.us" tvg-name="CBS Network" tvg-logo="https://i.ibb.co/K29fnrx/cbs-home-tv.png" group-title="Internasional News",CBS Network
+http://103.30.87.238:443/Terial002/7882/792
+#EXTINF:-1 tvg-id="DW.MACAN" tvg-name="DW English" tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="Internasional News",DW English
+http://103.30.87.238:443/Terial002/7882/928
+#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.us" tvg-name="CNN International" tvg-logo="https://i.ibb.co/xzjvBFZ/cnn-inter-home-tv.png" group-title="Internasional News",CNN International
+http://103.30.87.238:443/Terial002/7882/1187
+#EXTINF:-1 tvg-id="ChannelNewsAsia.MACAN" tvg-name="Channel News Asia" tvg-logo="https://i.ibb.co/pZsNBNx/Cna-home-tv.png" group-title="Internasional News",Channel News Asia
+http://103.30.87.238:443/Terial002/7882/1300
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix" tvg-logo="https://www.lyngsat.com/logo/tv/pp/phoenix_infonews.png" group-title="Internasional News",Phoenix
+http://103.30.87.238:443/Terial002/7882/1466
+#EXTINF:-1 tvg-id="TRTWorld.id" tvg-name="TRT World" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trtworld_small.png" group-title="Internasional News",TRT World
+http://103.30.87.238:443/Terial002/7882/1467
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png" group-title="Internasional News",CGTN
+http://103.30.87.238:443/Terial002/7882/1553
+#EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/WcJSHvc/natgeo-home-tv.png" group-title="Knowledge",National Geographic
+http://103.30.87.238:443/Terial002/7882/69
+#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/RPpN3KG/natgeo-wild-home-tv.png" group-title="Knowledge",Nat Geo Wild
+http://103.30.87.238:443/Terial002/7882/71
+#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/kHv3Zfr/Discovery-Channel-logo-768x576.png" group-title="Knowledge",Discovery Channel
+http://103.30.87.238:443/Terial002/7882/1169
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Asia" tvg-logo="https://i.postimg.cc/W4L4dn04/discovery-asia.png" group-title="Knowledge",Discovery Asia
+http://103.30.87.238:443/Terial002/7882/1296
+#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/smgGgRB/bbc-earth-home-tv.png" group-title="Knowledge",BBC Earth
+http://103.30.87.238:443/Terial002/7882/560
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/4jSSG3Y/history-home-tv.png" group-title="Knowledge",History
+http://103.30.87.238:443/Terial002/7882/66
+#EXTINF:-1 tvg-id="CrimeInvestigation.MACAN" tvg-name="Crime Investigation" tvg-logo="https://i.ibb.co/jMjWhcc/crime-investigation-home-tv.png" group-title="Knowledge",Crime Investigation
+http://103.30.87.238:443/Terial002/7882/1380
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/kGmYFd1w/animal22.png" group-title="Knowledge",Animal Planet
+http://103.30.87.238:443/Terial002/7882/65
+#EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/Q9DVNPD/love-nature-home-tv.png" group-title="Knowledge",Love Nature
+http://103.30.87.238:443/Terial002/7882/64
+#EXTINF:-1 tvg-id="1602" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="Knowledge",Smithsonian
+http://103.30.87.238:443/Terial002/7882/63
+#EXTINF:-1 tvg-id="FashionTV.id" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/5jYHP9F/fashiontv-home-tv.png" group-title="Lifestyle",Fashion TV
+http://103.30.87.238:443/Terial002/7882/404
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFN" tvg-logo="https://i.ibb.co/vh4YJjH/afn-home-tv.png" group-title="Lifestyle",AFN
+http://103.30.87.238:443/Terial002/7882/905
+#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="Lifestyle",HGTV
+http://103.30.87.238:443/Terial002/7882/906
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.ibb.co/yqvjGMH/tlc-home-tv.png" group-title="Lifestyle",TLC
+http://103.30.87.238:443/Terial002/7882/916
+#EXTINF:-1 tvg-id="Lifetime.MACAN" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/NCJnNpC/lifetime-home-tv.png" group-title="Lifestyle",Lifetime
+http://103.30.87.238:443/Terial002/7882/1129
+#EXTINF:-1 tvg-id="BlueAntExtreme.id" tvg-name="Rock Extreme" tvg-logo="https://i.ibb.co/hKL9phL/blue-ant-ext-home-tv.png" group-title="Entertainment",Rock Extreme
+http://103.30.87.238:443/Terial002/7882/333
+#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="Rock Entertainment" tvg-logo="https://i.ibb.co/Df5t6mP/blue-ant-enter-home-tv.png" group-title="Entertainment",Rock Entertainment
+http://103.30.87.238:443/Terial002/7882/899
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="TvN" tvg-logo="https://i.ibb.co/G9mjnYQ/tvn-home-tv.png" group-title="Entertainment",TvN
+http://103.30.87.238:443/Terial002/7882/708
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://i.ibb.co/MsFDnMV/kbs-world-home-tv.png" group-title="Entertainment",KBS World
+http://103.30.87.238:443/Terial002/7882/601
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://i.ibb.co/n7KzQjg/s-one-home-tv.png" group-title="Entertainment",Sony One
+http://103.30.87.238:443/Terial002/7882/951
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM" tvg-logo="https://i.ibb.co/W0THBXG/s-gem-home-tv.png" group-title="Entertainment",Sony GEM
+http://103.30.87.238:443/Terial002/7882/984
+#EXTINF:-1 tvg-id="KPlus.id" tvg-name="K+" tvg-logo="https://i.ibb.co/VJX5J43/Kplus-home-tv.png" group-title="Entertainment",K+
+http://103.30.87.238:443/Terial002/7882/1287
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/LJM3WtM/axn-home-tv.png" group-title="Entertainment",AXN
+http://103.30.87.238:443/Terial002/7882/1278
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="HITS" tvg-logo="https://i.ibb.co/5rB27Sm/hits-home-tv.png" group-title="Entertainment",HITS
+http://103.30.87.238:443/Terial002/7882/1004
+#EXTINF:-1 tvg-id="" tvg-name="Anime+" tvg-logo="https://i.ibb.co/r2S2r6Y/anime-plus-home-tv.png" group-title="Movies",Anime+
+http://103.30.87.238:443/Terial002/7882/4507
+#EXTINF:-1 tvg-id="" tvg-name="Bolly+" tvg-logo="https://i.ibb.co/LhKpsgr/removal-ai-tmp-61b72d6d335b0.png" group-title="Movies",Bolly+
+http://103.30.87.238:443/Terial002/7882/4508
+#EXTINF:-1 tvg-id="" tvg-name="Drama+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh6gl2erE9qmrRuP2oKEWcI20dp1rcQ6vdkpjG7QCbg2Ya4MkpajlOd_kBGt8uzZM0TzXcQ_42oLC1to756td1EXzqcrpOq6HYM6rHRSLqWg8_KR8yfOb0g8lP8akCsfKEKSugFxiSACletR5ZXDDj2EMQFfyb8aM9ypYioVuMj2cW-IfjpynAuKcARdA=s320" group-title="Movies",Drama+
+http://103.30.87.238:443/Terial002/7882/1152
+#EXTINF:-1 tvg-id="" tvg-name="Family+" tvg-logo="https://i.ibb.co/dMT24T9/removal-ai-tmp-618e0f2716361.png" group-title="Movies",Family+
+http://103.30.87.238:443/Terial002/7882/4511
+#EXTINF:-1 tvg-id="" tvg-name="Movie+" tvg-logo="https://i.ibb.co/py61Ytw/removal-ai-tmp-6171c030c3aa8.png" group-title="Movies",Movie+
+http://103.30.87.238:443/Terial002/7882/4509
+#EXTINF:-1 tvg-id="" tvg-name="Movie Premium+" tvg-logo="https://i.ibb.co/pzxhr8S/4.jpg" group-title="Movies",Movie Premium+
+http://103.30.87.238:443/Terial002/7882/4510
+#EXTINF:-1 tvg-id="" tvg-name="Horror+" tvg-logo="https://i.ibb.co/M1jHDSV/removal-ai-tmp-618e0f11b9685.png" group-title="Movies",Horror+
+http://103.30.87.238:443/Terial002/7882/4512
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="https://i.ibb.co/zShNF6p/hbo-id-home-tv.png" group-title="Movies",HBO
+http://103.30.87.238:443/Terial002/7882/8
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/wMCgKGp/hbo-hits-home-tv.png" group-title="Movies",HBO Hits
+http://103.30.87.238:443/Terial002/7882/10
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/sbTYFCN/hob-sig-home-tv.png" group-title="Movies",HBO Signature
+http://103.30.87.238:443/Terial002/7882/893
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/8P2SJM7/hbo-fam-home-tv.png" group-title="Movies",HBO Family
+http://103.30.87.238:443/Terial002/7882/3997
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/0yJjMdB/hbo-max-home-tv.png" group-title="Movies",Cinemax
+http://103.30.87.238:443/Terial002/7882/1109
+#EXTINF:-1 tvg-id="mycinema.MACAN" tvg-name="My Cinema" tvg-logo="https://i.ibb.co/dgPMHc0/My-cinema-encep.png" group-title="Movies",My Cinema
+http://103.30.87.238:443/Terial002/7882/1375
+#EXTINF:-1 tvg-id="mycinemaasia.MACAN" tvg-name="My Cinema Asia" tvg-logo="https://i.ibb.co/G0chGsR/My-cinema-asia.png" group-title="Movies",My Cinema Asia
+http://103.30.87.238:443/Terial002/7882/1421
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="WarnerTV" tvg-logo="https://i.ibb.co/qrwpdB3/warner-tv-home-tv.png" group-title="Movies",WarnerTV
+http://103.30.87.238:443/Terial002/7882/1206
+#EXTINF:-1 tvg-id="ts32" tvg-name="Paramount" tvg-logo="https://i.imgur.com/7B36dPh.png" group-title="Movies",Paramount
+http://103.30.87.238:443/Terial002/7882/1289
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="Hits Movies" tvg-logo="https://i.ibb.co/T4CMHky/Hits-movies-home-tv.png" group-title="Movies",Hits Movies
+http://103.30.87.238:443/Terial002/7882/1292
+#EXTINF:-1 tvg-id="CinemaWorld.MACAN" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/q9ZwqcN/cinemaworld-home-tv.png" group-title="Movies",Cinema World
+http://103.30.87.238:443/Terial002/7882/1291
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/5WmhFsG/galaxy-home-tv.png" group-title="Movies",Galaxy
+http://103.30.87.238:443/Terial002/7882/4500
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/51LG4Xw/galaxy-premium-home-tv.png" group-title="Movies",Galaxy Premium
+http://103.30.87.238:443/Terial002/7882/4501
+#EXTINF:-1 tvg-id="ts530" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/3ppHtjj/prive-home-tv.png" group-title="Movies",&Prive HD
+http://103.30.87.238:443/Terial002/7882/1234
+#EXTINF:-1 tvg-id="" tvg-name="&Flix" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="Movies",&Flix
+http://103.30.87.238:443/Terial002/7882/4517
+#EXTINF:-1 tvg-id="156" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/vXzThc8/star-movies-home-tv.png" group-title="Movies",Star Movies
+http://103.30.87.238:443/Terial002/7882/1266
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies Select" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="Movies",Star Movies Select
+http://103.30.87.238:443/Terial002/7882/4499
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="Movies",Sony Pix
+http://103.30.87.238:443/Terial002/7882/4516
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/C7tHQXY/celestial-movies-home-tv.png" group-title="Movies",Celestial Movies
+http://103.30.87.238:443/Terial002/7882/42
+#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/M7HjR3n/ccm-home-tv.png" group-title="Movies",CCM
+http://103.30.87.238:443/Terial002/7882/1364
+#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movie" tvg-logo="https://i.ibb.co/MDGtQL6/Star-chinese-movie-home-tv.png" group-title="Movies",Star Chinese Movie
+http://103.30.87.238:443/Terial002/7882/1342
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/Lx5mh6X/thrill-home-tv.png" group-title="Movies",Thrill
+http://103.30.87.238:443/Terial002/7882/1219
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="TvN Movies" tvg-logo="https://i.ibb.co/fHfhMfn/tvn-movies-home-tv.png" group-title="Movies",TvN Movies
+http://103.30.87.238:443/Terial002/7882/1221
+#EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="https://i.ibb.co/C0bR1P3/flik-home-tv.png" group-title="Movies",Flik
+http://103.30.87.238:443/Terial002/7882/4498
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://i.ibb.co/0Jt92hK/sagd.png" group-title="Movies",IMC
+http://103.30.87.238:443/Terial002/7882/4518
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/6JGP61f/aniplus-home-tv.png" group-title="Kids",Aniplus
+http://103.30.87.238:443/Terial002/7882/910
+#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://i.ibb.co/ZJGKFy9/animax-home-tv.png" group-title="Kids",Animax
+http://103.30.87.238:443/Terial002/7882/929
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/DkrTfsd/nickeledeon-home-tv.png" group-title="Kids",Nickelodeon
+http://103.30.87.238:443/Terial002/7882/991
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Junior" tvg-logo="https://i.ibb.co/3fXsgzp/nickjr-home-tv.png" group-title="Kids",Nick Junior
+http://103.30.87.238:443/Terial002/7882/1385
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/T8yPnjM/RDFHDCFG.png" group-title="Kids",Dreamworks
+http://103.30.87.238:443/Terial002/7882/4503
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/y0Jk7CQ/boomerang-home-tv.png" group-title="Kids",Boomerang
+http://103.30.87.238:443/Terial002/7882/1277
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/pZ0xjt7/cartoon-network-home-tv.png" group-title="Kids",Cartoon Network
+http://103.30.87.238:443/Terial002/7882/1189
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://i.ibb.co/6Dvdcw7/babyfirst-home-tv.png" group-title="Kids",Baby First
+http://103.30.87.238:443/Terial002/7882/1383
+#EXTINF:-1 tvg-id="Zoomoo.id" tvg-name="Zoomoo" tvg-logo="https://i.ibb.co/n3Bdy69/zoomoo-home-tv.png" group-title="Kids",Zoomoo
+http://103.30.87.238:443/Terial002/7882/1387
+#EXTINF:-1 tvg-id="NBCGolf.MACAN" tvg-name="Golf+" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c6857e04fca5017ec40cec31736f/47c552f5b0a444018cd64f0005b3ad41.jpg" group-title="Sport",Golf+
+http://103.30.87.238:443/Terial002/7882/100
+#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/qd0RNHt/nba-home-tv.png" group-title="Sport",NBA TV
+http://103.30.87.238:443/Terial002/7882/901
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/LN1VHfp/Spo-tv-home-tv.png" group-title="Sport",SPOTV
+http://103.30.87.238:443/Terial002/7882/1355
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="Sport",SPOTV 2
+http://103.30.87.238:443/Terial002/7882/4504
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/CQnMW0Q/Wwe-encep.png" group-title="Sport",WWE
+http://103.30.87.238:443/Terial002/7882/1374
+#EXTINF:-1 tvg-id="beinMaxMY.MACAN" tvg-name="Soccer Chanel" tvg-logo="https://www.dropbox.com/s/tq0fu3ur3c04hkb/soccerchannel.png" group-title="Sport",Soccer Chanel
+http://103.30.87.238:443/Terial002/7882/1378
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="https://i.ibb.co/kXgtm1m/tvri.png" group-title="Sport",TVRI Sport
+http://103.30.87.238:443/Terial002/7882/1557
+#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="Bein Sport" tvg-logo="https://i.ibb.co/b352L2b/bein1-home-tv.png" group-title="Sport",Bein Sport
+http://103.30.87.238:443/Terial002/7882/902
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="Bein Sport 3" tvg-logo="https://i.ibb.co/ZmVKJ7Z/Bein-id3.png" group-title="Sport",Bein Sport 3
+http://103.30.87.238:443/Terial002/7882/1081
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/YdQYP1R/bt-sport-home-tv.png" group-title="Sport",BT Sport 1
+http://103.30.87.238:443/Terial002/7882/1102
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/YdQYP1R/bt-sport-home-tv.png" group-title="Sport",BT Sport 2
+http://103.30.87.238:443/Terial002/7882/1083
+#EXTINF:-1 tvg-id="" tvg-name="Sport+" tvg-logo="" group-title="Sport",Sport+
+http://103.30.87.238:443/Terial002/7882/4513
+#EXTINF:-1 tvg-id="" tvg-name="Sport+ 2" tvg-logo="" group-title="Sport",Sport+ 2
+http://103.30.87.238:443/Terial002/7882/4514
+#EXTINF:-1 tvg-id="" tvg-name="Sport+ 3" tvg-logo="" group-title="Sport",Sport+ 3
+http://103.30.87.238:443/Terial002/7882/4515
+#EXTINF:-1 tvg-id="Arena" tvg-name="Astro Arena" tvg-logo="https://i.ibb.co/rbtX26N/Astro-arena-home-tv.png" group-title="Sport",Astro Arena
+http://103.30.87.238:443/Terial002/7882/1346
+#EXTINF:-1 tvg-id="Thangathirai" tvg-name="Astro Arena 2" tvg-logo="https://i.ibb.co/WVwSv3S/Astro-arena2-encep.png" group-title="Sport",Astro Arena 2
+http://103.30.87.238:443/Terial002/7882/1379
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="Astro SuperSport 1" tvg-logo="https://i.ibb.co/KxnvzLS/Assp1.png" group-title="Sport",Astro SuperSport 1
+http://103.30.87.238:443/Terial002/7882/1091
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.ibb.co/FzRBBmc/Assp2.png" group-title="Sport",Astro SuperSport 2
+http://103.30.87.238:443/Terial002/7882/1092
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://i.ibb.co/rs9tWYY/Assp3.png" group-title="Sport",Astro SuperSport 3
+http://103.30.87.238:443/Terial002/7882/1096
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.ibb.co/64Bvwh4/Assp4.png" group-title="Sport",Astro SuperSport 4
+http://103.30.87.238:443/Terial002/7882/1135
+#EXTINF:-1 tvg-id="ASSP5.my" tvg-name="Astro Supersport 5" tvg-logo="https://i.ibb.co/NF7QV9f/Assp5-home-tv.png" group-title="Sport",Astro Supersport 5
+http://103.30.87.238:443/Terial002/7882/1365
+#EXTINF:-1 tvg-id="RodjaTV.MACAN" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/m5TzKYB/rodjatv-home-tv.png" group-title="Religi",Rodja TV
+http://103.30.87.238:443/Terial002/7882/180
+#EXTINF:-1 tvg-id="AlQuranAlKareem.MACAN" tvg-name="Makkah TV" tvg-logo="https://i.ibb.co/TPH12f8/alquran-alkareem-home-tv.png" group-title="Religi",Makkah TV
+http://103.30.87.238:443/Terial002/7882/586
+#EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://i.ibb.co/XWP6xdz/mqtv-home-tv.png" group-title="Religi",MQTV
+http://103.30.87.238:443/Terial002/7882/1140
+#EXTINF:-1 tvg-id="" tvg-name="Al Bahjah" tvg-logo="https://i.postimg.cc/V6KzVFBc/AL-BAHJAH.png" group-title="Religi",Al Bahjah
+http://103.30.87.238:443/Terial002/7882/3478
+#EXTINF:-1 tvg-id="Reformed21TV.id" tvg-name="Reformed 21" tvg-logo="https://i.ibb.co/yWyyXPB/reformed-home-tv.png" group-title="Religi",Reformed 21
+http://103.30.87.238:443/Terial002/7882/571
+#EXTINF:-1 tvg-id="MTVLive.nl" tvg-name="MTV" tvg-logo="https://i.ibb.co/wYVcWRh/mtv-home-tv.png" group-title="Music",MTV
+http://103.30.87.238:443/Terial002/7882/1005
+#EXTINF:-1 tvg-id="" tvg-name="Country Network" tvg-logo="https://i.imgur.com/AwNQHqC.png" group-title="Music",Country Network
+http://103.30.87.238:443/Terial002/7882/1200
+#EXTINF:-1 tvg-id="" tvg-name="Pop Musik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLhiaq_qKJnVjmogg7QWaHm1cOyXpuo8Y2A&usqp=CAU" group-title="Music",Pop Musik
+http://103.30.87.238:443/Terial002/7882/1201
+#EXTINF:-1 tvg-id="" tvg-name="Classic" tvg-logo="https://i.imgur.com/2gXSIbO.png" group-title="Music",Classic
+http://103.30.87.238:443/Terial002/7882/3298
+#EXTINF:-1 tvg-id="" tvg-name="Qwest TV" tvg-logo="" group-title="Music",Qwest TV
+http://103.30.87.238:443/Terial002/7882/3486
+#EXTINF:-1 tvg-id="" tvg-name="Megaswara" tvg-logo="https://i.postimg.cc/J4Mc1QpY/mgstv.png" group-title="Music",Megaswara
+http://103.30.87.238:443/Terial002/7882/4006
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="Movies",Zee Bioskop
+http://103.30.87.238:443/Terial002/7882/4519
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/PQQfDt9/tsh.png" group-title="Sport",Fight Sport
+http://103.30.87.238:443/Terial002/7882/4520
