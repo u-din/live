@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,24 Series
+https://kpuae@d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8?curipenerajangjebongok.m3u8
+
 #EXTINF:-1,Skysports
 https://AplikasiLalajoTV@76ab8856ff65.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.506002325759.channel.nWmEqjtphD26.m3u8?joinaplikasilalajotv.m3u8
 
