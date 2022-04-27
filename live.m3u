@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,a
+http://d2cpkh467fronq.cloudfront.net/stream/NDA2Mw==/1080p.m3u8?mvk
+
 #EXTINF:-1,Thai 1
 https://alplay.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=1650270384-0-0-48c6ca8a63158bfe5e9a6a038b0676e2
 
