@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,b
+https://s@d4ppxylyv7g1l.cloudfront.net:443/live/skyepl/chunks.m3u8
+
 #EXTINF:-1,TUDN
 http://103.235.106.225/?https://hll.hnzzdf.com.cn/live/H177788.m3u8?txSecret=cfa70379e7ba6c421ad18d6fe807628b&txTime=626AB0AA&_s=stream
 
