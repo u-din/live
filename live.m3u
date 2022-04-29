@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,laliga
+https://m3.quest123.top:8088/live/maniacos/playlist.m3u8?vidictid=191115793577&id=116358&pk=d22f9313702edddced0f368cf9b6400e908adf702fc41ec8f3056c3d642e4d4c3d02b20b8a0908f531a4a0d9025eced53b50081c2521e8f0e07afaa257afdd39
+
 #EXTINF:-1,bundes
 https://hll.hnzzdf.com.cn/live/H152696.m3u8?txSecret=2bbba59fd3f04c96988c6e46146bea86&txTime=626CEC10&_s=stream
 
