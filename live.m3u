@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,c
+https://dornatoken.secure.footprint.net/token=nva=1651243377~dirs=2~ip=0.0.0.0~data=R9TJXw6mblZSg93ybwHhbijXQpcrwOgqDAsbblx9V1VqjHM33m7bFb2hFMbwgXEn~token=0b3929dc1486263f16464/hls/ipfmix/index.m3u8
+
 #EXTINF:-1,b
 https://s@d4ppxylyv7g1l.cloudfront.net:443/live/skyepl/chunks.m3u8
 
