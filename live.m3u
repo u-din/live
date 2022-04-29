@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,bundes
+https://hll.hnzzdf.com.cn/live/H152696.m3u8?txSecret=2bbba59fd3f04c96988c6e46146bea86&txTime=626CEC10&_s=stream
+
 #EXTINF:-1,c
 https://dornatoken.secure.footprint.net/token=nva=1651243377~dirs=2~ip=0.0.0.0~data=R9TJXw6mblZSg93ybwHhbijXQpcrwOgqDAsbblx9V1VqjHM33m7bFb2hFMbwgXEn~token=0b3929dc1486263f16464/hls/ipfmix/index.m3u8
 
