@@ -11,6 +11,7 @@ https://v2.vayaminakoym.xyz/ssport2/index.m3u8
 
 #EXTINF:-1,bundes
 https://hll.hnzzdf.com.cn/live/H152696.m3u8?txSecret=2bbba59fd3f04c96988c6e46146bea86&txTime=626CEC10&_s=stream
+https://cdnapisec.kaltura.com/p/4621233/sp/462123300/playManifest/entryId/1_kgf8l4yr/format/applehttp/protocol/https/uiConfId/49985163/a.m3u8
 
 #EXTINF:-1,c
 https://dornatoken.secure.footprint.net/token=nva=1651243377~dirs=2~ip=0.0.0.0~data=R9TJXw6mblZSg93ybwHhbijXQpcrwOgqDAsbblx9V1VqjHM33m7bFb2hFMbwgXEn~token=0b3929dc1486263f16464/hls/ipfmix/index.m3u8
@@ -78,14 +79,14 @@ https://d1ipl36x5x4iks.cloudfront.net/live/afc2.m3u8
 #EXTINF:-1,Skysports (AR)
 https://kpUAEikickyourasshole@76ab8856ff65.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.506002325759.channel.nWmEqjtphD26.m3u8?LANUNMATASEPETJILAKE.m3u8
 
+#EXTINF:-1,BT sports1
+https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
+
 #EXTINF:-1,BT sports2
 https://KPUAEABZDEFGHIJKLMNOPQRSTUVWXYZ@01cc1947c0d3.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.506002325759.channel.cl1YWrsbuhYm.m3u8?lanunmatadepetpotongjeTOTEdia.m3u8
 
 #EXTINF:-1,Bein sports3
 https://tx.hls.nimo.tv/live/su2039516379340rf2f4d5b4b6eb018ba6288526c7a73811.m3u8
-
-#EXTINF:-1,CTAPT
-https://29assia.com/hls/148.m3u8?md5=EjaPxG6jJn2RoV6aXsfKLQ&expires=1650663939
 
 
 
