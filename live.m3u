@@ -3,7 +3,11 @@
 https://mvk@hll.hnzzdf.com.cn/live/H155282.m3u8?txSecret=4efc9819ab4819f57f3975b2a9641f93&txTime=626CEC10&_s=stream
 
 #EXTINF:-1,laliga
+http://194.67.196.19/hls/103.m3u8
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
+
+#EXTINF:-1,serieA
+https://v2.vayaminakoym.xyz/ssport2/index.m3u8
 
 #EXTINF:-1,bundes
 https://hll.hnzzdf.com.cn/live/H152696.m3u8?txSecret=2bbba59fd3f04c96988c6e46146bea86&txTime=626CEC10&_s=stream
@@ -40,6 +44,9 @@ https://alplay.zhengyaning.com/xoilac/channel-6.m3u8?auth_key=1650270632-0-0-dfa
 
 #EXTINF:-1,Thai 7
 https://alplay.zhengyaning.com/xoilac/channel-7.m3u8?auth_key=1650270660-0-0-7fc1765f80325a79ba7c47bc03cd3cc7
+
+#EXTINF:-1,Thai 11
+https://alplay.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1650270786-0-0-3326e14b72fb0e725a9e6ee76478fb02
 
 #EXTINF:-1,1
 https://kpUAEikickyourasshole@76ab8856ff65.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.506002325759.channel.nWmEqjtphD26.m3u8?LANUNMATASEPETJILAKE.m3u8
