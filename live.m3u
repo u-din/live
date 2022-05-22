@@ -1,94 +1,29 @@
-#EXTM3U
-#EXTINF:-1,ligue1
-https://mvk@hll.hnzzdf.com.cn/live/H155282.m3u8?txSecret=4efc9819ab4819f57f3975b2a9641f93&txTime=626CEC10&_s=stream
+Manchester City vs Aston Villa Live Streams
+http://dlfdtxer9ahcp.cloudfront.net/stream/NDQxOQ==/1080p.m3u8
 
-#EXTINF:-1,laliga
-http://194.67.196.19/hls/103.m3u8
-http://loga.ultratotal.ml/xls/ligota/index.m3u8
+Liverpool vs Wolverhampton Wanderers Live Streams
+http://d1kf6usw91kco2.cloudfront.net/stream/NDQxOA==/1080p.m3u8
 
-#EXTINF:-1,serieA
-https://v2.vayaminakoym.xyz/ssport2/index.m3u8
+Norwich City vs Tottenham Hotspur Live Streams
+http://d3r9va1i6gphnn.cloudfront.net/stream/NDQyMA==/1080p.m3u8
 
-#EXTINF:-1,bundes
-https://hll.hnzzdf.com.cn/live/H152696.m3u8?txSecret=2bbba59fd3f04c96988c6e46146bea86&txTime=626CEC10&_s=stream
-https://cdnapisec.kaltura.com/p/4621233/sp/462123300/playManifest/entryId/1_kgf8l4yr/format/applehttp/protocol/https/uiConfId/49985163/a.m3u8
-https://player.akiwat.com/play.html?url=https://video1a.9db00u.com/org/48527355.flv?auth_key=1651339724-0-0-d1a183352800e5a3f2f19a0bd95343e5
+Leicester City vs Southampton Live Streams
+http://dbkfolpu7353a.cloudfront.net/stream/NDQxNw==/1080p.m3u8
 
-#EXTINF:-1,c
-https://dornatoken.secure.footprint.net/token=nva=1651243377~dirs=2~ip=0.0.0.0~data=R9TJXw6mblZSg93ybwHhbijXQpcrwOgqDAsbblx9V1VqjHM33m7bFb2hFMbwgXEn~token=0b3929dc1486263f16464/hls/ipfmix/index.m3u8
+Crystal Palace vs Manchester United Live Streams
+http://d1kf6usw91kco2.cloudfront.net/stream/NDQxNg==/1080p.m3u8
 
-#EXTINF:-1,b
-https://s@d4ppxylyv7g1l.cloudfront.net:443/live/skyepl/chunks.m3u8
+Chelsea vs Watford Live Streams
+http://dbkfolpu7353a.cloudfront.net/stream/NDQxNQ==/1080p.m3u8
 
-#EXTINF:-1,TUDN
-http://103.235.106.225/?https://hll.hnzzdf.com.cn/live/H177788.m3u8?txSecret=cfa70379e7ba6c421ad18d6fe807628b&txTime=626AB0AA&_s=stream
+Burnley vs Newcastle United Live Streams
+http://d1kf6usw91kco2.cloudfront.net/stream/NDQxNA==/1080p.m3u8
 
-#EXTINF:-1,Foxsport
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/FwcnQIOhfss4B9Mbx0vs0Y16bKkPhKzWQhHHCqwXZ8qx8NL68Qw249LQHftx1BvdYh_e4TDb7D8y9_aIxXFY2A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+Brighton & Hove Albion vs West Ham United Live Streams
+http://dbkfolpu7353a.cloudfront.net/stream/NDQxMw==/1080p.m3u8
 
-#EXTINF:-1,a
-http://d2cpkh467fronq.cloudfront.net/stream/NDA2Mw==/1080p.m3u8?mvk
+Brentford vs Leeds United Live Streams
+http://d184sn3ootmtu3.cloudfront.net/stream/NDQxMg==/1080p.m3u8
 
-#EXTINF:-1,Thai 1
-https://alplay.zhengyaning.com/xoilac/channel-1.m3u8?auth_key=1650270384-0-0-48c6ca8a63158bfe5e9a6a038b0676e2
-
-#EXTINF:-1,Thai 2
-https://alplay.zhengyaning.com/xoilac/channel-2.m3u8?auth_key=1650270470-0-0-8fccdc7f7bc8c0794d340d1e16371658
-
-#EXTINF:-1,Thai 3
-https://alplay.zhengyaning.com/xoilac/channel-3.m3u8?auth_key=1650270558-0-0-cbb563d4f1f3b8cc89aa7d3466bd4b47
-
-#EXTINF:-1,Thai 4
-https://alplay.zhengyaning.com/xoilac/channel-4.m3u8?auth_key=1650270580-0-0-17538c7bccec7438ccdb9471e475778b
-
-#EXTINF:-1,Thai 6
-https://alplay.zhengyaning.com/xoilac/channel-6.m3u8?auth_key=1650270632-0-0-dfa68232a797a41ad2de3c6f419f0235
-
-#EXTINF:-1,Thai 7
-https://alplay.zhengyaning.com/xoilac/channel-7.m3u8?auth_key=1650270660-0-0-7fc1765f80325a79ba7c47bc03cd3cc7
-
-#EXTINF:-1,Thai 11
-https://alplay.zhengyaning.com/xoilac/channel-11.m3u8?auth_key=1650270786-0-0-3326e14b72fb0e725a9e6ee76478fb02
-
-#EXTINF:-1,1
-https://kpUAEikickyourasshole@76ab8856ff65.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.506002325759.channel.nWmEqjtphD26.m3u8?LANUNMATASEPETJILAKE.m3u8
-
-#EXTINF:-1,2
-https://kpuae@01cc1947c0d3.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.506002325759.channel.cl1YWrsbuhYm.m3u8?Curikusepankkang2barutahuhahaha.m3u8
-
-#EXTINF:-1,3
-https://tx.hls.nimo.tv/live/su2039514083155r4e33ce3af689de7d1f5518a7dee8d31a.m3u8
-
-#EXTINF:-1,SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1650615383~exp=9007200905356374~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_2/chunklist.m3u8*~hmac=34c9814e7963c45c99edacc6b75832d5e184f1fcc81dabe2516314aa7f75d63f
-
-#EXTINF:-1,24 Series
-https://kpuae@d2v6lnvgqlapp2.cloudfront.net/out/v1/4905a865d7834cbab90956905f4478d5/push2eu_1.m3u8?curipenerajangjebongok.m3u8
-
-#EXTINF:-1,Skysports
-https://AplikasiLalajoTV@76ab8856ff65.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.506002325759.channel.nWmEqjtphD26.m3u8?joinaplikasilalajotv.m3u8
-
-#EXTINF:-1,MotoGP
-https://dornatoken.secure.footprint.net/token=nva=1650641838~dirs=2~ip=0.0.0.0~data=UsYQ5%252BbrD4fUmmN2XEXdh%252FL1b0%252F%252FkMcTDeyG0AUn7IzPbaHV48os7Z3n6CnhajX%252F~token=0e11c3bfb542abac74a2a/hls/ipfmix/2.m3u8?start=0&
-
-#EXTINF:-1,MNC Sports
-https://d1ipl36x5x4iks.cloudfront.net/live/afc1.m3u8
-
-#EXTINF:-1,Soccer Channel
-https://d1ipl36x5x4iks.cloudfront.net/live/afc2.m3u8
-
-#EXTINF:-1,Skysports (AR)
-https://kpUAEikickyourasshole@76ab8856ff65.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.506002325759.channel.nWmEqjtphD26.m3u8?LANUNMATASEPETJILAKE.m3u8
-
-#EXTINF:-1,BT sports1
-https://1fdd483b2dde.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.781001535613.channel.QbhdYoH7da2u.m3u8
-
-#EXTINF:-1,BT sports2
-https://KPUAEABZDEFGHIJKLMNOPQRSTUVWXYZ@01cc1947c0d3.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.506002325759.channel.cl1YWrsbuhYm.m3u8?lanunmatadepetpotongjeTOTEdia.m3u8
-
-#EXTINF:-1,Bein sports3
-https://tx.hls.nimo.tv/live/su2039516379340rf2f4d5b4b6eb018ba6288526c7a73811.m3u8
-
-
-
-
+Arsenal vs Everton Live Streams
+http://d3r9va1i6gphnn.cloudfront.net/stream/NDQxMQ==/1080p.m3u8
